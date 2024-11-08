@@ -1,0 +1,17 @@
+1. JSX - JavaScript Syntax Extension
+
+2. Babel - A JavaScript compiler to complie html and other things to show them on the browser cause JSX is not recognized without a compiler.
+
+3. React Core Concepts - Components, Props, State
+
+4. Components- User interfaces can be broken down into smaller building blocks called components. In React, components are functions. 
+    * React components should be capitalize to distinguish them from plain HTML and JavaScript.
+    * React components have to be used as the same way we use regular HTML tags with angle brackets.
+
+5. Props - Pieces of information can be passed as properties to React components. These are called props. Props are read-only information that 
+           is passed to components.
+
+6. Hooks - React has a set of function called hooks. Hooks allow users to add additional logic suchas state to components. 
+
+7. State - State is any information in the UI that changes over time, usually triggered by user interaction. State is information that can 
+           change over time, usually triggered by user interaction.
